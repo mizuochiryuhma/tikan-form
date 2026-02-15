@@ -1,4 +1,4 @@
-// ★ Apps Script WebアプリURL
+// ★ Apps Script WebアプリURL 答案が命令を上書きさせないための対処
 const ENDPOINT = "https://script.google.com/a/macros/gs.nein.ed.jp/s/AKfycbwRHvPkg4WTPxV4C5l5zfsegM2LWtw_hpbtwqHqCERPPK8A0uQeCILshM4Yg55_njzG/exec";
 
 const form = document.getElementById("submitForm");
